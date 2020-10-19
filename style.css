@@ -1,0 +1,17 @@
+/*Styles the pie-man*/
+#pieman{
+	background-image: url("Pie-man.gif");
+	width: 50px;
+	height: 50px;
+	z-index: 4;
+	background-size: cover;
+}
+/*Styles the scoreboard*/
+#scoreboard{
+	z-index: 7;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	font-size: 30px;
+	color: red;
+	}
